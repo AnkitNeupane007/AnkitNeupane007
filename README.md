@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Neupane</h1>
 <h3 align="center">A passionate and quick learner.</h3>
 
+<img align="right" alt="code" width=400 height=300 src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
+
 - 📫 How to reach me **ankit.net60@gmail.com**
+- 🧑‍🎓 Currently studying Computer Engineering 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
