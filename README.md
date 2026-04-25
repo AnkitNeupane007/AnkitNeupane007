@@ -1,6 +1,5 @@
 # 💫 About Me:
-A passionate and quick learner.
-
+Software engineer focused on building scalable backend systems and AI-powered applications. I enjoy turning complex problems into clean, efficient solutions and continuously exploring modern technologies.
 <img width="680" height="380" alt="cover image" src="https://github.com/user-attachments/assets/e70ba1ca-ec28-4c8c-a035-2d6dd631a0cd" />
 
 
