@@ -1,4 +1,5 @@
-[Cover image](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+<img width="680" height="428" alt="cover image" src="https://github.com/user-attachments/assets/e70ba1ca-ec28-4c8c-a035-2d6dd631a0cd" />
+
 # 💫 About Me:
 A passionate and quick learner.
 
